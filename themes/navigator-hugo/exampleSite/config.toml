@@ -1,6 +1,6 @@
-baseURL = "https://harvard4h.org/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Harvard, MA 4h"
+title = "Navigator | Responsive Multipurpose Bootstrap Hugo Template"
 theme = "navigator-hugo"
 
 # We Used Themefisher Icon font for Icon, for more details check this github repository - https://github.com/themefisher/themefisher-font
@@ -71,7 +71,7 @@ theme = "navigator-hugo"
     # Hero Area Section
     [params.hero]
         enable  = true
-        heading = "We love helping children grow"
+        heading = "We love to make brands grow"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
         button  = true
         btnText = "Know More"
