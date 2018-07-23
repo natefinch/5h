@@ -1,16 +1,16 @@
 enable  : true
 item  :
-  - icon  : tf-ion-ios-copy-outline
-    title : WordPress Theme
+  - icon  : tf-ion-planet
+    title : Myriad Projects
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      4H is more than just animals, it has a huge variety of projects including STEM, the arts, and more.
   
-  - icon  : tf-ion-ios-alarm-outline
-    title : Responsive Design
+  - icon  : tf-ion-ios-people
+    title : Leadership and Cooperation
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      4H teachers important life skills such as public speaking and team management to help ready kids to work in the real world.
 
-  - icon  : tf-ion-ios-book-outline
-    title : Media & Advertisement
+  - icon  : tf-ion-transgender
+    title : Open to All
     description : >
-      Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum facilisis vel id tellus. Nullam iaculis arcu at mauris dapibus consectetur.
+      4H is open to all, regardless of gender, beliefs, politics, social status.  

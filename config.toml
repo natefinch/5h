@@ -13,12 +13,8 @@ theme = "navigator-hugo"
         url     = "/about"
         weight  = 2
     [[menu.nav]]
-        name    = "Service"
-        url     = "/service"
-        weight  = 3
-    [[menu.nav]]
-        name    = "Portfolio"
-        url     = "/portfolio"
+        name    = "Events"
+        url     = "/events"
         weight  = 4
     [[menu.nav]]
         name    = "Blog"
@@ -65,23 +61,22 @@ theme = "navigator-hugo"
 [params]
     home = "Home"
     logo = "images/logo.png"
-    dateFormat = "6 January 2006"
-    footerDescription = "Integer posuere erat a ante venenati dapibus posuere velit aliquet. Fusce dapibus, tellus cursus commodo, tortor mauris sed posuere."
+    dateFormat = "January 2 2006"
+    footerDescription = "Harvard4H.org is the website for the 4H group based out of Harvard, MA."
 
     # Hero Area Section
     [params.hero]
         enable  = true
         heading = "We love helping children grow"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. At quo dolor est incidunt suscipit minima, alias numquam voluptatum rerum porro. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Labore at laboriosam unde repellat id expedita quae quisquam libero officia consequatur."
-        button  = true
-        btnText = "Know More"
+        button  = false
+        btnText = "Learn More"
         btnURL  = "https://themefisher.com/"
-        videoThumb = "images/slider/video-player-thumb.jpg"
-        videoURL   = "https://www.youtube.com/embed/g3-VxLQO7do"
+        image = "images/chick.jpg"
 
     # About 2 Section
     [params.aboutSm]
-        enable  = true
+        enable  = false
         title   = "We have explored the digital landscape with passion for a long time"
         description = "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quae deleniti ipsa labore necessitatibus culpa veritatis quo accusantium, neque enim ea ad eaque iure, quas tempore velit, quibusdam dolor illo! Explicabo. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aliquid quisquam maiores iste soluta, nihil dolorem?"
 
@@ -94,7 +89,7 @@ theme = "navigator-hugo"
 
     # Call to Action Section on About Page
     [params.cta]
-        enable  = true
+        enable  = false
         bg      = "images/call-to-action/call-to-action-bg-2.jpg"
         title   = "Let's Create Something Together"
         subtitle= "Proin gravida nibh vel velit auctor aliquet. Aenean sollicudin bibendum auctor, <br> nisi elit consequat ipsum, nesagittis sem nid elit. Duis sed odio sitain elit."
