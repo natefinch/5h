@@ -35,10 +35,6 @@ figure {
   margin: 0;
 }
 
-a {
-  transition: all .3s ease-in 0s;
-}
-
 iframe {
   border: 0;
 }
@@ -1118,7 +1114,6 @@ a:focus, a:hover {
   left: 10%;
   opacity: 0;
   z-index: 9;
-  transition: all 0.3s ease-in-out;
 }
 
 .portfolio-block .caption h4 {
@@ -1201,7 +1196,6 @@ a:focus, a:hover {
   padding: 50px 20px;
   margin-right: -1px;
   margin-bottom: -1px;
-  transition: all 0.3s ease 0s;
 }
 
 .service-2 .service-item .count {
@@ -1223,7 +1217,6 @@ a:focus, a:hover {
   line-height: 55px;
   margin-bottom: 20px;
   width: 55px;
-  transition: all 0.3s ease 0s;
 }
 
 .service-list .block {
@@ -1410,10 +1403,6 @@ a:focus, a:hover {
 .team-member .member-photo {
   overflow: hidden;
   position: relative;
-}
-
-.team-member .member-photo img {
-  transition: all 0.6s ease 0s;
 }
 
 /*=================================================================
